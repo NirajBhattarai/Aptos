@@ -1,0 +1,6 @@
+[package]
+name = 'q2'
+version = '1.0.0'
+
+[addresses]
+admin = '06dc56c69315466339e56b7787e1d62d7a0efe10b4ed63643b991c51b2de469c'

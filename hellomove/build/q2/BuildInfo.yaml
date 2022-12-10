@@ -1,0 +1,18 @@
+---
+compiled_package_info:
+  package_name: q2
+  address_alias_instantiation:
+    admin: 06dc56c69315466339e56b7787e1d62d7a0efe10b4ed63643b991c51b2de469c
+  source_digest: 444EDBC3D1F026C51B81A4B8D92EE59406F2C045CF18784024F7ED87544B10E2
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: true
+dependencies: []
